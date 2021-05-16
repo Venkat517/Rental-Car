@@ -1,0 +1,10 @@
+.container{
+    /* background-image: linear-gradient(-90deg,#d38312, #a83279); */
+    background-image: linear-gradient(to right top, #371505, #611d08, #902109, #c21e0a, #f70d0d);
+}
+.nav-link {
+    color: #fff;
+}
+a {
+    color: #fff;
+}
